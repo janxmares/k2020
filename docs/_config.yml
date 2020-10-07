@@ -1,7 +1,7 @@
 title: K+ 2020
 description: Kurzy +
 sitename: K+ 2020
-baseurl: 'janxmares.github.io/k2020'
+baseurl:
 sass:
   sass_dir: /assets/_sass
   style: :compressed
